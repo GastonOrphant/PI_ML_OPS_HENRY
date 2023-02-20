@@ -2,6 +2,9 @@
 
 Alumno: Gastón Alejandro Orphant
 
+**NOTA:** Originalmente el proyecto habia sido forkeado del propuesto pero a la hora de intentar usar Github LFS para pushear un archivo de mas de 150mb (peso limite de github) no se podía hacer por incompatibilidad con los repositorios forkeados.
+En caso de querer ver las distintas versiones del proyecto el link al repositorio original se puede encontrar [ACA](https://github.com/GastonOrphant/PI_ML_OPS)
+
 ## **Arbol del proyecto:**
 
 PI_ML_OPS                       
