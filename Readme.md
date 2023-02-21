@@ -84,7 +84,7 @@ La API es capaz de realizar las siguientes consultas:
     https://pimlops_api-1-h8197706.deta.app/get_actor/netflix/2016
 
 
- Puedes entrar al siguiente [link](https://pimlops_api-2-h8197706.deta.app/docs) para ver la documentación de la API.
+ Puedes entrar al siguiente [link](https://pimlops_api-1-h8197706.deta.app/docs) para ver la documentación de la API.
 #
 
 ## **EDA**
