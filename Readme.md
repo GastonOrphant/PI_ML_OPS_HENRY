@@ -46,6 +46,11 @@ Link de la API (Se necesita estar registrado en https://www.deta.space) : [Ir a 
 
 ## **Consultas de la API**
 
+**DATOS DE USUARIO:**
+
+Nombre de usuario: GastonOrphant
+Nombre de la API: PI-ML-OPS API
+
 **IMPORTANTE:**
 - A la hora de utilizar el campo de **platform** es necesario ingresar una plataforma correcta, las plataformas son: netflix, hulu, amazon y disney.
 
