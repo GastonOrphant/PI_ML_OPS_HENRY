@@ -19,8 +19,8 @@ PI_ML_OPS
 ├───**datasets**: Datasets creados por medio del proceso de ETL y apenas modificados en el EDA.                        
 ├───**MLOpsReviews**: Carpeta que contiene los archivos .csv a los cuales se le realizó el ETL.     
 │   └───ratings       
-├───**EDA**: Notebook en el que se realizó el analisis exploratorio de datos del proyecto.  
-├───**ETL**: Notebook en el que se realizó el proceso de ETL de los .csv crudos.  
+├───**EDA.ipynb**: Notebook en el que se realizó el analisis exploratorio de datos del proyecto.  
+├───**ETL.ipynb**: Notebook en el que se realizó el proceso de ETL de los .csv crudos.  
 ├───**Readme.md**: El archivo que usted se encuentra leyendo en estos momentos.
 └───**RecommendationSystem.ipynb**: Notebook en la que se realizó el modelo de recomendación de peliculas.
 
